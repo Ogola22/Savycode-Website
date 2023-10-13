@@ -5,10 +5,10 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <a href="index.html">
-                        <h1 class="text-white fw-bold d-block">High<span class="text-secondary">Tech</span> </h1>
+                        <h1 class="text-white fw-bold d-block">Savy<span class="text-secondary">Code</span> </h1>
                     </a>
-                    <p class="mt-4 text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta facere
-                        delectus qui placeat inventore consectetur repellendus optio debitis.</p>
+                    <p class="mt-4 text-light">At Savycode Solutions Ltd., we believe in driving digital transformation and helping
+                         our clients succeed in the digital age.</p>
                     <div class="d-flex hightech-link">
                         <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i
                                 class="fab fa-facebook-f text-primary"></i></a>
@@ -51,11 +51,11 @@
                     <a href="#" class="h3 text-secondary">Contact Us</a>
                     <div class="text-white mt-4 d-flex flex-column contact-link">
                         <a href="#" class="pb-3 text-light border-bottom border-primary"><i
-                                class="fas fa-map-marker-alt text-secondary me-2"></i> 123 Street, New York, USA</a>
+                                class="fas fa-map-marker-alt text-secondary me-2"></i> 00100 GPO, Nairobi, Kenya</a>
                         <a href="#" class="py-3 text-light border-bottom border-primary"><i
-                                class="fas fa-phone-alt text-secondary me-2"></i> +123 456 7890</a>
+                                class="fas fa-phone-alt text-secondary me-2"></i> +254 700458981</a>
                         <a href="#" class="py-3 text-light border-bottom border-primary"><i
-                                class="fas fa-envelope text-secondary me-2"></i> info@exmple.con</a>
+                                class="fas fa-envelope text-secondary me-2"></i> savycodesolutions@gmail.com</a>
                     </div>
                 </div>
             </div>
@@ -63,13 +63,12 @@
             <div class="row">
                 <div class="col-md-6 text-center text-md-start">
                     <span class="text-light"><a href="#" class="text-secondary"><i
-                                class="fas fa-copyright text-secondary me-2"></i>Your Site Name</a>, All right
+                                class="fas fa-copyright text-secondary me-2"></i>Savycode Solutions Ltd</a>, All right
                         reserved.</span>
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    <span class="text-light">Designed By<a href="https://htmlcodex.com" class="text-secondary">HTML
-                        Codex</a></span>
+                    
+                    <!-- <span class="text-light">Designed By<a href="" class="text-secondary">Savycode</a></span> -->
             </div>
         </div>
     </div>

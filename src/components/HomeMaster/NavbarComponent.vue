@@ -5,10 +5,9 @@
             <div class="d-flex justify-content-between topbar">
                 <div class="top-info">
                     <small class="me-3 text-white-50"><a href="#"><i
-                                class="fas fa-map-marker-alt me-2 text-secondary"></i></a>23 Ranking Street, New
-                        York</small>
+                                class="fas fa-map-marker-alt me-2 text-secondary"></i></a>00100 Nairobi, Kenya</small>
                     <small class="me-3 text-white-50"><a href="#"><i
-                                class="fas fa-envelope me-2 text-secondary"></i></a>Email@Example.com</small>
+                                class="fas fa-envelope me-2 text-secondary"></i></a>savycodesolutions@gmail.com</small>
                 </div>
                 <div id="note" class="text-secondary d-none d-xl-flex"><small>Note : We help you to Grow your
                         Business</small></div>
@@ -32,7 +31,7 @@
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="text-white fw-bold d-block">High<span class="text-secondary">Tech</span> </h1>
+                    <h1 class="text-white fw-bold d-block">Savy<span class="text-secondary">Code</span> </h1>
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -67,7 +66,7 @@
                     </div>
                     <div class="d-flex flex-column pe-4 border-end">
                         <span class="text-white-50">Have any questions?</span>
-                        <span class="text-secondary">Call: + 0123 456 7890</span>
+                        <span class="text-secondary">Call: +254 700458981</span>
                     </div>
                     <div class="d-flex align-items-center justify-content-center ms-4 ">
                         <a href="#"><i class="bi bi-search text-white fa-2x"></i> </a>
