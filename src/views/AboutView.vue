@@ -1,5 +1,17 @@
 <template>
-    <!-- About Start -->
+    <!-- Page Header Start -->
+    <div class="container-fluid page-header py-5">
+        <div class="container text-center py-5">
+            <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
+            <nav aria-label="breadcrumb animated slideInDown">
+                <ol class="breadcrumb justify-content-center mb-0">
+                    <li class="breadcrumb-item"><a><router-link to="/">Home</router-link></a></li>
+                    <li class="breadcrumb-item"><a><router-link to="/about">About</router-link></a></li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <!-- Page Header End -->
     <!-- About Start -->
     <div class="container-fluid py-5 my-5">
         <div class="container pt-5">
@@ -35,7 +47,8 @@
             </div>
         </div>
     </div>
-    <!-- About End --></template>
+    <!-- About End -->
+</template>
 
 <script>
 export default {
