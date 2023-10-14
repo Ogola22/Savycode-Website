@@ -31,7 +31,7 @@
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="text-white fw-bold d-block">Savy<span class="text-secondary">Code</span> </h1>
+                    <h3 class="text-white fw-bold d-block">Savy<span class="text-secondary">Code</span> </h3>
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -39,9 +39,9 @@
                 </button>
                 <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                     <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                        <a href="index.html" class="nav-item nav-link active text-secondary">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
-                        <a href="service.html" class="nav-item nav-link">Services</a>
+                        <router-link to="/" class="nav-item nav-link active text-secondary">Home</router-link>
+                        <router-link to="/about" class="nav-item nav-link">About</router-link>
+                        <router-link to="/service" class="nav-item nav-link">Services</router-link>
                         <a href="project.html" class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
