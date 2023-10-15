@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-lg-3 wow fadeIn" data-wow-delay=".5s">
                     <div class="d-flex counter">
-                        <h1 class="me-3 text-primary counter-value">1K+</h1>
+                        <h1 class="me-3 text-primary counter-value">200</h1>
                         <h5 class="text-white mt-1">Total clients who love savycode</h5>
                     </div>
                 </div>
@@ -91,120 +91,141 @@
     </div>
     <!-- Fact End -->
 
-    
-        <!-- About Start -->
-        <div class="container-fluid py-5 my-5">
-            <div class="container pt-5">
-                <div class="row g-5">
-                    <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
-                        <div class="h-100 position-relative">
-                            <img src="../assets/img/about-1.jpg" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
-                            <div class="position-absolute w-75" style="top: 25%; left: 25%;">
-                                <img src="../assets/img/about-2.jpg" class="img-fluid w-100 rounded" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
-                        <h5 class="text-primary">About Us</h5>
-                        <h1 class="mb-4">About SavyCode Solutions And It's Innovative IT Solutions</h1>
-                        <p>Savycode Solutions Ltd. is a dynamic and forward-thinking company that specializes in a wide range of innovative services, catering to the ever-evolving digital landscape. With a dedicated team of experts, we are committed to delivering high-quality solutions to meet the diverse needs of our clients. Our core services encompass Software Development, Website Design and Development, Digital Marketing, Graphic Design, Photography, Videography, Software Maintenance, Structured Cabling, and the Supply of Goods.</p>
-                        <h5 class="text-primary">Our Vision</h5>
-                        <p class="mb-4">Our vision at Savycode Solutions Ltd. is to be a globally recognized leader in the field of digital services and technology. We envision a future where businesses and individuals worldwide turn to us for cutting-edge digital solutions.</p>
-                        <h5 class="text-primary">Our Mission</h5>
-                        <p class="mb-4">Our mission at Savycode Solutions Ltd. is to empower businesses and individuals through cutting-edge digital solutions. We are dedicated to providing innovative services that enhance the digital landscape and improve the lives of our clients.</p>
-                        <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About End -->
 
-          <!-- Services Start -->
-          <div class="container-fluid services py-5 mb-5">
-            <div class="container">
-                <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
-                    <h5 class="text-primary">Our Services</h5>
-                    <h1>Services Built Specifically For Your Business</h1>
+    <!-- About Start -->
+    <div class="container-fluid py-5 my-5">
+        <div class="container pt-5">
+            <div class="row g-5">
+                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                    <div class="h-100 position-relative">
+                        <img src="../assets/img/img6.avif" class="img-fluid w-75 rounded" alt=""
+                            style="margin-bottom: 25%;">
+                        <div class="position-absolute w-75" style="top: 25%; left: 25%;">
+                            <img src="../assets/img/img7.avif" class="img-fluid w-100 rounded" alt="">
+                        </div>
+                    </div>
                 </div>
-                <div class="row g-5 services-inner">
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fa fa-code fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Web Design & Development</h4>
-                                    <p class="mb-4">Your online presence is crucial, and our web design and development experts create visually stunning and highly functional websites that leave a lasting impression. We focus on user experience, responsive design, and SEO optimization.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
+                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
+                    <h5 class="text-primary">About Us</h5>
+                    <h1 class="mb-4">About SavyCode Solutions And It's Innovative IT Solutions</h1>
+                    <p>Savycode Solutions Ltd. is a dynamic and forward-thinking company that specializes in a wide range of
+                        innovative services, catering to the ever-evolving digital landscape. With a dedicated team of
+                        experts, we are committed to delivering high-quality solutions to meet the diverse needs of our
+                        clients. Our core services encompass Software Development, Website Design and Development, Digital
+                        Marketing, Graphic Design, Photography, Videography, Software Maintenance, Structured Cabling, and
+                        the Supply of Goods.</p>
+                    <h5 class="text-primary">Our Vision</h5>
+                    <p class="mb-4">Our vision at Savycode Solutions Ltd. is to be a globally recognized leader in the field
+                        of digital services and technology. We envision a future where businesses and individuals worldwide
+                        turn to us for cutting-edge digital solutions.</p>
+                    <h5 class="text-primary">Our Mission</h5>
+                    <p class="mb-4">Our mission at Savycode Solutions Ltd. is to empower businesses and individuals through
+                        cutting-edge digital solutions. We are dedicated to providing innovative services that enhance the
+                        digital landscape and improve the lives of our clients.</p>
+                    <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+    <!-- Services Start -->
+    <div class="container-fluid services py-5 mb-5">
+        <div class="container">
+            <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                <h5 class="text-primary">Our Services</h5>
+                <h1>Services Built Specifically For Your Business</h1>
+            </div>
+            <div class="row g-5 services-inner">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-code fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Web Design & Development</h4>
+                                <p class="mb-4">Your online presence is crucial, and our web design and development experts
+                                    create visually stunning and highly functional websites that leave a lasting impression.
+                                    We focus on user experience, responsive design, and SEO optimization.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fa fa-file-code fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Software Solutions</h4>
-                                    <p class="mb-4">We craft custom software solutions tailored to your unique needs. From web applications to mobile apps and enterprise software, our development team is proficient in multiple programming languages and platforms to bring your ideas to life.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-file-code fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Software Solutions</h4>
+                                <p class="mb-4">We craft custom software solutions tailored to your unique needs. From web
+                                    applications to mobile apps and enterprise software, our development team is proficient
+                                    in multiple programming languages and platforms to bring your ideas to life.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fa fa-external-link-alt fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Graphic Design</h4>
-                                    <p class="mb-4">Our creative team excels in graphic design services, producing stunning visuals that communicate your brand's identity. Whether it's logos, brochures, or marketing collateral, we make sure your brand stands out.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-external-link-alt fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Graphic Design</h4>
+                                <p class="mb-4">Our creative team excels in graphic design services, producing stunning
+                                    visuals that communicate your brand's identity. Whether it's logos, brochures, or
+                                    marketing collateral, we make sure your brand stands out.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fa fa-camera-retro fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Photography & Videography</h4>
-                                    <p class="mb-4">Capture the essence of your moments and products with our professional photography and videography services. Our experienced team brings stories to life through stunning visuals.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
-                                
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-camera-retro fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Photography & Videography</h4>
+                                <p class="mb-4">Capture the essence of your moments and products with our professional
+                                    photography and videography services. Our experienced team brings stories to life
+                                    through stunning visuals.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Digital Marketing</h4>
+                                <p class="mb-4">Our digital marketing strategies encompass SEO, social media marketing,
+                                    content marketing, PPC, email marketing, and more. We drive brand recognition and
+                                    increase your online visibility, ensuring that you reach your target audience
+                                    effectively.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Digital Marketing</h4>
-                                    <p class="mb-4">Our digital marketing strategies encompass SEO, social media marketing, content marketing, PPC, email marketing, and more. We drive brand recognition and increase your online visibility, ensuring that you reach your target audience effectively.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                        <div class="services-item bg-light">
-                            <div class="p-4 text-center services-content">
-                                <div class="services-content-icon">
-                                    <i class="fas fa-laptop fa-7x mb-4 text-primary"></i>
-                                    <h4 class="mb-3">Supply of Goods</h4>
-                                    <p class="mb-4">We offer a wide range of IT-related hardware and software products, ensuring that your technology needs are met with quality products and support.</p>
-                                    <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                                </div>
-                            </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <i class="fas fa-laptop fa-7x mb-4 text-primary"></i>
+                                <h4 class="mb-3">Supply of Goods</h4>
+                            <p class="mb-4">We offer a wide range of IT-related hardware and software products, ensuring
+                                that your technology needs are met with quality products and support.</p>
+                            <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Services End -->
-    </template>
+    </div>
+</div>
+<!-- Services End --></template>
 
 <script>
 export default {
