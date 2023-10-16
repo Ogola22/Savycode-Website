@@ -30,7 +30,7 @@
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">
-                    <a href="index.html" class="logo me-auto"><img src="../../assets/img/Savy (1).png" alt="" class="img-fluid"></a>
+                    <!-- <a href="index.html" class="logo me-auto"><img src="../../assets/img/Savy (1).png" alt="" class="img-fluid"></a> -->
                     <h3 class="text-white fw-bold d-block">Savy<span class="text-primary">Code</span> </h3>
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
