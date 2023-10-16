@@ -9,8 +9,7 @@
                     <small class="me-3 text-white-50"><a href="#"><i
                                 class="fas fa-envelope me-2 text-secondary"></i></a>savycodesolutions@gmail.com</small>
                 </div>
-                <div id="note" class="text-secondary d-none d-xl-flex"><small>Note : We help you to Grow your
-                        Business</small></div>
+                <div id="note" class="text-secondary d-none d-xl-flex"><small>Welcome to Savycode Solutions Limited</small></div>
                 <div class="top-link">
                     <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i
                             class="fab fa-facebook-f text-primary"></i></a>
@@ -27,11 +26,11 @@
     <!-- Topbar End -->
 
     <!-- Navbar Start -->
-    <div class="container-fluid bg-primary">
+    <div class="container-fluid bg-success">
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">
-                    <h3 class="text-white fw-bold d-block">Savy<span class="text-secondary">Code</span> </h3>
+                    <h3 class="text-white fw-bold d-block">Savy<span class="text-info">Code</span> </h3>
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">

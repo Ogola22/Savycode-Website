@@ -89,7 +89,7 @@
 #note small {
     position: relative;
     display: inline-block;
-    animation: mymove 10s infinite;
+    animation: mymove 20s infinite;
     animation-timing-function: all;
 }
 
@@ -116,7 +116,7 @@
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-secondary) !important;
+    color: var(--bs-info) !important;
 }
 
 .navbar .dropdown-toggle::after {
