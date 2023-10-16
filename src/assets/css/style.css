@@ -147,6 +147,10 @@
     opacity: 1;
 }
 
+.navbar .logo img {
+    max-height: 80px;
+  }
+
 /*** Navbar End ***/
 
 

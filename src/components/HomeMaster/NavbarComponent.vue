@@ -30,6 +30,7 @@
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">
+                    <a href="index.html" class="logo me-auto"><img src="../../assets/img/Savy (1).png" alt="" class="img-fluid"></a>
                     <h3 class="text-white fw-bold d-block">Savy<span class="text-primary">Code</span> </h3>
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
@@ -51,7 +52,7 @@
                                 <a href="404.html" class="dropdown-item">404 Page</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <router-link to="/contact" class="nav-item nav-link">Contact</router-link>
                     </div>
                 </div>
                 <div class="d-none d-xl-flex flex-shirink-0">
