@@ -9,7 +9,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img src="../assets/img/carousel-1.jpg" class="img-fluid" alt="First slide">
+                    <img src="../assets/img/1920x1080.jpg" class="img-fluid" alt="First slide">
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <h6 class="text-secondary h4 animated fadeInUp">Best IT Solutions</h6>
