@@ -181,19 +181,19 @@
                             <div class="services-content-icon">
                                 <i class="fas fa-laptop fa-7x mb-4 text-primary"></i>
                                 <h4 class="mb-3">Supply of Goods</h4>
-                            <p class="mb-4">We offer a wide range of IT-related hardware and software products, ensuring
-                                that your technology needs are met with quality products and support.</p>
-                            <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <p class="mb-4">We offer a wide range of IT-related hardware and software products, ensuring
+                                    that your technology needs are met with quality products and support.</p>
+                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- Services End -->
-<!-- Contact Start -->
-<div class="container-fluid py-5 mt-5">
+    <!-- Services End -->
+    <!-- Contact Start -->
+    <div class="container-fluid py-5 mt-5">
         <div class="container py-5">
             <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
                 <h5 class="text-primary">Get In Touch</h5>
@@ -212,7 +212,8 @@
                             </div>
                             <div class="ms-3">
                                 <h4 class="text-primary">Address</h4>
-                                <a href="https://goo.gl/maps/Zd4BCynmTb98ivUJ6" target="_blank" class="h5">00100, Nairobi</a>
+                                <a href="https://goo.gl/maps/Zd4BCynmTb98ivUJ6" target="_blank" class="h5">00100,
+                                    Nairobi</a>
                             </div>
                         </div>
                     </div>
@@ -245,7 +246,9 @@
                     <div class="col-lg-6 wow fadeIn" data-wow-delay=".3s">
                         <div class="p-5 h-100 rounded contact-map">
                             <iframe class="rounded w-100 h-100"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.32390058352!2d36.68257878578605!3d-1.3032035598814729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi!5e0!3m2!1sen!2ske!4v1697460741054!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.32390058352!2d36.68257878578605!3d-1.3032035598814729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi!5e0!3m2!1sen!2ske!4v1697460741054!5m2!1sen!2ske"
+                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade">
                                 style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
@@ -277,10 +280,7 @@
     <!-- Contact End -->
 </template>
 
-<script>
-export default {
-
-}
+<script setup>
 </script>
 
 <style></style>
