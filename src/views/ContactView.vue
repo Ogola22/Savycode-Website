@@ -18,7 +18,6 @@
             <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
                 <h5 class="text-primary">Get In Touch</h5>
                 <h1 class="mb-3">Contact for any query</h1>
-                <p class="mb-2">Reach Out to Us for more Information</p>
             </div>
             <div class="contact-detail position-relative p-5">
                 <div class="row g-5 mb-5 justify-content-center">
