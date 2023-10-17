@@ -65,7 +65,7 @@
                 </div>
                 <div class="d-none d-xl-flex flex-shirink-0">
                     <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
-                        <a href="" class="position-relative animated tada infinite">
+                        <a href="" class="position-relative">
                             <i class="fa fa-phone-alt text-white fa-2x"></i>
                             <div class="position-absolute" style="top: -7px; left: 20px;">
                                 <span><i class="fa fa-comment-dots text-secondary"></i></span>
@@ -75,9 +75,6 @@
                     <div class="d-flex flex-column pe-4 border-end">
                         <span class="text-white-50">Have any questions?</span>
                         <span class="text-secondary">Call: +254 700458981</span>
-                    </div>
-                    <div class="d-flex align-items-center justify-content-center ms-4 ">
-                        <a href="#"><i class="bi bi-search text-white fa-2x"></i> </a>
                     </div>
                 </div>
             </nav>

@@ -12,8 +12,8 @@
         </div>
     </div>
     <!-- Page Header End -->
-    <!-- About Start -->
-    <div class="container-fluid py-5 my-5">
+    <!-- Agency Start -->
+    <div class="container-fluid mb-2">
         <h1 class="mb-4 text-center">Bringing The Best for You</h1>
         <div class="container pt-5">
             <div class="row g-5">
@@ -35,7 +35,7 @@
         </div>
     </div>
 
-    <div class="container-fluid py-5 my-2">
+    <div class="container-fluid mb-0">
         <div class="container pt-2">
             <div class="row g-5">
                 <div class="col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
@@ -55,7 +55,29 @@
             </div>
         </div>
     </div>
-    <!-- About End -->
+
+    <div class="container-fluid mb-0">
+        <div class="container pt-5">
+            <div class="row g-5">
+                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                    <div class="h-100 position-relative">
+                        <img src="../assets/img/Besca - Flyer.png" class="img-fluid w-80 rounded" alt=""
+                            style="margin-bottom: 25%;">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
+                    <h5 class="text-primary">Branding</h5>
+                    <p>In a rapidly evolving digital landscape, your brand's identity is your most valuable asset.
+                         It's the face of your business, the emotional connection you establish with your audience,
+                          and the promise of quality and consistency you deliver. At Savycode, we understand the importance of a strong brand, 
+                          and we're here to help you build, strengthen, and elevate your brand identity with our cutting-edge Branding as a Service.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Agency End -->
 </template>
 
 <script>
