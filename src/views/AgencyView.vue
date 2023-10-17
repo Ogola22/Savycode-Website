@@ -6,7 +6,7 @@
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a><router-link to="/service">Services</router-link></a></li>
-                    <li class="breadcrumb-item" aria-current="page">Agency</li>
+                    <li class="breadcrumb-item text-secondary" aria-current="page">Agency</li>
                 </ol>
             </nav>
         </div>

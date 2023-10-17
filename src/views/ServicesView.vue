@@ -7,7 +7,7 @@
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a><router-link to="/">Home</router-link></a></li>
                     <li class="breadcrumb-item"><a><router-link to="/about">About</router-link></a></li>
-                    <li class="breadcrumb-item" aria-current="page">Services</li>
+                    <li class="breadcrumb-item text-secondary" aria-current="page">Services</li>
                 </ol>
             </nav>
         </div>
