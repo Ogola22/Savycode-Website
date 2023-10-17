@@ -41,7 +41,15 @@
                     <div class="navbar-nav ms-auto mx-xl-auto p-0">
                         <router-link to="/" class="nav-item nav-link active text-secondary">Home</router-link>
                         <router-link to="/about" class="nav-item nav-link">About</router-link>
-                        <router-link to="/service" class="nav-item nav-link">Services</router-link>
+                        <div class="nav-item dropdown">
+                            <router-link to="/service" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</router-link>
+                            <div class="dropdown-menu rounded">
+                                <a>
+                                    <router-link to="/agency" class="dropdown-item">Agency</router-link>
+                                </a>
+                                <a href="team.html" class="dropdown-item">Systems & Solutions</a>
+                            </div>
+                        </div>
                         <a href="project.html" class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
