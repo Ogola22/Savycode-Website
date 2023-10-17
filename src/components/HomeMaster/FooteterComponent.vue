@@ -23,8 +23,8 @@
                 <div class="col-lg-3 col-md-6">
                     <a href="#" class="h3 text-secondary">Short Link</a>
                     <div class="mt-4 d-flex flex-column short-link">
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>About
-                            us</a>
+                        <router-link to="/about" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>About
+                            us</router-link>
                         <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Contact
                             us</a>
                         <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Our
