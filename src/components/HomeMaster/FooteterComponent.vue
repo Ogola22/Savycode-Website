@@ -60,7 +60,7 @@
                 </div>
             </div>
             <hr class="text-light mt-5 mb-4">
-            <div class="row">
+            <div class="row border-top">
                 <div class="col-md-6 text-center text-md-start">
                     <span class="text-black"><a href="#" class="text-black"><i
                                 class="fas fa-copyright text-info me-2"></i>Savycode Solutions Ltd</a>, All rights
