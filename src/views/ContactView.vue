@@ -12,6 +12,7 @@
         </div>
     </div>
     <!-- Page Header End -->
+
     <!-- Contact Start -->
     <div class="container-fluid py-5 mt-5">
         <div class="container py-5">
@@ -90,8 +91,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Contact End -->
+    </div><!-- Contact End -->
 </template>
 
 <script>
