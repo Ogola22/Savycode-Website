@@ -79,8 +79,7 @@
                 </div>
             </nav>
         </div>
-    </div>
-    <!-- Navbar End -->
+    </div><!-- Navbar End -->
 </template>
 
 <script>
