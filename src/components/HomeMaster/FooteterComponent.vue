@@ -66,11 +66,7 @@
                                 class="fas fa-copyright text-info me-2"></i>Savycode Solutions Ltd</a>, All rights
                         reserved.</span>
                 </div>
-                <div class="col-md-6 text-center text-md-end">
-                    
-                    <!-- <span class="text-light">Designed By<a href="" class="text-secondary">Savycode</a></span> -->
             </div>
-        </div>
     </div>
 </div>
 <!-- Footer End --></template>
