@@ -192,6 +192,7 @@
         </div>
     </div>
     <!-- Services End -->
+
     <!-- Contact Start -->
     <div class="container-fluid py-5 mt-5">
         <div class="container py-5">
@@ -201,8 +202,7 @@
                 <p class="mb-2">Reach Out to Us for more Information <router-link to="/contact">Click here to contact us</router-link>.</p>
             </div>
         </div>
-    </div>
-    <!-- Contact End -->
+    </div><!-- Contact End -->
 </template>
 
 <script setup>
