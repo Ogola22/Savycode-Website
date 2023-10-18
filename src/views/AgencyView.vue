@@ -12,6 +12,7 @@
         </div>
     </div>
     <!-- Page Header End -->
+    
     <!-- Agency Start -->
     <div class="container-fluid mb-5">
         <h1 class="mb-4 text-center">Bringing The Best for You</h1>
@@ -96,15 +97,11 @@
                 </div>
             </div>
         </div>
-    </div>
-    
-    <!-- Agency End -->
+    </div><!-- Agency End -->
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
 <style>
