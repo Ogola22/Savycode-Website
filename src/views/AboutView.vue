@@ -12,7 +12,7 @@
         </div>
     </div>
     <!-- Page Header End -->
-    
+
     <!-- About Start -->
     <div class="container-fluid py-5 my-5">
         <div class="container pt-5">
@@ -52,9 +52,7 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
 <style></style>
