@@ -69,7 +69,8 @@
             </div>
     </div>
 </div>
-<!-- Footer End --></template>
+<!-- Footer End -->
+</template>
 
 <script>
 export default {
