@@ -159,6 +159,7 @@
 
 .carousel-item {
     position: relative;
+    z-index: -1;
 }
 
 .carousel-item::after {
@@ -182,38 +183,6 @@
 .carousel-item p {
     max-width: 700px;
     margin: 0 auto 35px auto;
-}
-
-.carousel-control-prev {
-    width: 90px;
-    height: 60px;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    background: var(--bs-primary);
-    border-radius: 0 50px 50px 0;
-    opacity: 1;
-}
-
-.carousel-control-prev:hover {
-    background: var(--bs-secondary);
-    transition: .8s;
-}
-
-.carousel-control-next {
-    width: 90px;
-    height: 60px;
-    position: absolute;
-    top: 50%;
-    right: 0;
-    background: var(--bs-primary);
-    border-radius: 50px 0 0 50px;
-    opacity: 1;
-}
-
-.carousel-control-next:hover {
-    background: var(--bs-secondary);
-    transition: .8s;
 }
 
 .carousel-caption .carousel-content a button.carousel-content-btn1 {
