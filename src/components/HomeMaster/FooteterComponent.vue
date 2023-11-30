@@ -25,23 +25,17 @@
                     <div class="mt-4 d-flex flex-column short-link">
                         <router-link to="/about" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>About
                             us</router-link>
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Contact
-                            us</a>
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Our
-                            Services</a>
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Our
-                            Projects</a>
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Latest
-                            Blog</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Contact us</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Our Services</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Our Projects</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Latest Blog</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <a href="#" class="h3 text-secondary">Help Link</a>
                     <div class="mt-4 d-flex flex-column help-link">
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Terms Of
-                            use</a>
-                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Privacy
-                            Policy</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Terms Of use</a>
+                        <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Privacy Policy</a>
                         <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Helps</a>
                         <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>FQAs</a>
                         <a href="" class="mb-2 text-black"><i class="fas fa-angle-right text-secondary me-2"></i>Contact</a>
