@@ -21,9 +21,9 @@
                             <a href="" class="me-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read
                                     More</button></a>
-                            <a href="" class="ms-2"><button type="button"
+                            <router-link to="/contact" class="ms-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
-                                    Us</button></a>
+                                    Us</button></router-link>
                         </div>
                     </div>
                 </div>

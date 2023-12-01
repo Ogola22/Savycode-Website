@@ -43,7 +43,6 @@
                     <p class="mb-4">Our mission at Savycode Solutions Ltd. is to empower businesses and individuals through
                         cutting-edge digital solutions. We are dedicated to providing innovative services that enhance the
                         digital landscape and improve the lives of our clients.</p>
-                    <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a>
                 </div>
             </div>
         </div>
