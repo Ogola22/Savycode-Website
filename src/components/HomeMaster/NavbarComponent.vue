@@ -39,7 +39,7 @@
                 </button>
                 <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                     <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                        <router-link to="/" class="nav-item nav-link active text-secondary">Home</router-link>
+                        <router-link to="/" class="nav-item nav-link">Home</router-link>
                         <router-link to="/about" class="nav-item nav-link">About</router-link>
                         <div class="nav-item dropdown">
                             <router-link to="/service" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</router-link>
