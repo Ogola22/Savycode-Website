@@ -1,6 +1,6 @@
 <template>
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark py-2 d-none d-md-flex">
+    <div class="container-fluid bg-dark py-2 d-none d-md-flex position-fixed">
         <div class="container">
             <div class="d-flex justify-content-between topbar">
                 <div class="top-info">
@@ -26,7 +26,7 @@
     <!-- Topbar End -->
 
     <!-- Navbar Start -->
-    <div class="container-fluid bg-success">
+    <div class="container-fluid bg-success position-fixed mt-5">
         <div class="container">
             <nav class="navbar navbar-dark navbar-expand-lg py-0">
                 <a href="index.html" class="navbar-brand">

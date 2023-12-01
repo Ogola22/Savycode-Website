@@ -66,7 +66,6 @@
 
 
 /*** Topbar Start ***/
-
 .topbar .top-info {
     letter-spacing: 1px;
 }
@@ -225,7 +224,7 @@
     background: var(--bs-primary);
     margin: 10px;
     border-radius: 30px;
-    opacity: 1;
+    opacity: 1; 
 }
 
 #carouselId .carousel-indicators li:hover {
