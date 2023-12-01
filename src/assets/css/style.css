@@ -101,6 +101,9 @@
 
 
 /*** Navbar Start ***/
+.container-fluid{
+    z-index: 1;
+}
 .navbar .navbar-nav {
     padding: 15px 0;
    
@@ -297,6 +300,8 @@
     border-radius: 10px;
     padding: 10px 0;
     position: relative;
+
+    
 }
 
 
@@ -326,7 +331,6 @@
 
 .services-item:hover .services-content-icon {
     position: relative;
-    z-index: 2;
 }
 
 .services-item .services-content-icon i,
