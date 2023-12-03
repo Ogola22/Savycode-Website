@@ -88,7 +88,7 @@
                     <p class="mb-4">Our mission at Savycode Solutions Ltd. is to empower businesses and individuals through
                         cutting-edge digital solutions. We are dedicated to providing innovative services that enhance the
                         digital landscape and improve the lives of our clients.</p>
-                    <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a>
+                    <!-- <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white">More Details</a> -->
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@
                                 <p class="mb-4">Your online presence is crucial, and our web design and development experts
                                     create visually stunning and highly functional websites that leave a lasting impression.
                                     We focus on user experience, responsive design, and SEO optimization.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@
                                 <p class="mb-4">We craft custom software solutions tailored to your unique needs. From web
                                     applications to mobile apps and enterprise software, our development team is proficient
                                     in multiple programming languages and platforms to bring your ideas to life.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                                 <p class="mb-4">Our creative team excels in graphic design services, producing stunning
                                     visuals that communicate your brand's identity. Whether it's logos, brochures, or
                                     marketing collateral, we make sure your brand stands out.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                                 <p class="mb-4">Capture the essence of your moments and products with our professional
                                     photography and videography services. Our experienced team brings stories to life
                                     through stunning visuals.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
 
                         </div>
@@ -170,7 +170,7 @@
                                     content marketing, PPC, email marketing, and more. We drive brand recognition and
                                     increase your online visibility, ensuring that you reach your target audience
                                     effectively.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@
                                 <h4 class="mb-3">Supply of Goods</h4>
                                 <p class="mb-4">We offer a wide range of IT-related hardware and software products, ensuring
                                     that your technology needs are met with quality products and support.</p>
-                                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+                                <!-- <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a> -->
                             </div>
                         </div>
                     </div>
