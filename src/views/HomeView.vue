@@ -18,9 +18,9 @@
                             <p class="mb-4 text-white fs-5 animated fadeInDown">Savycode Solutions Ltd. is a dynamic and
                                 forward-thinking company that specializes in a wide range of innovative services, catering
                                 to the ever-evolving digital landscape</p>
-                            <a href="" class="me-2"><button type="button"
+                            <!-- <a href="" class="me-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read
-                                    More</button></a>
+                                    More</button></a> -->
                             <router-link to="/contact" class="ms-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
                                     Us</button></router-link>
@@ -36,9 +36,9 @@
                                 Need!</h1>
                             <p class="mb-4 text-white fs-5 animated fadeInDown">With a dedicated team of experts, we are
                                 committed to delivering high-quality solutions to meet the diverse needs of our clients.</p>
-                            <a href="" class="me-2"><button type="button"
+                            <!-- <a href="" class="me-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn1 animated fadeInLeft">Read
-                                    More</button></a>
+                                    More</button></a> -->
                             <a href="" class="ms-2"><button type="button"
                                     class="px-4 py-sm-3 px-sm-5 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
                                     Us</button></a>
